@@ -1,0 +1,20 @@
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\New folder\MIPSEmulator\MIPSEmulator\bin\Debug\MIPSEmulator.exe.config
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\New folder\MIPSEmulator\MIPSEmulator\bin\Debug\MIPSEmulator.exe
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\New folder\MIPSEmulator\MIPSEmulator\bin\Debug\MIPSEmulator.pdb
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\New folder\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\New folder\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.MainForm.resources
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\New folder\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.Properties.Resources.resources
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\New folder\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.csproj.GenerateResource.cache
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\New folder\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\New folder\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.exe
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\New folder\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.pdb
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\Task 2 - MIPS Emulator\MIPSEmulator\MIPSEmulator\bin\Debug\MIPSEmulator.exe.config
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\Task 2 - MIPS Emulator\MIPSEmulator\MIPSEmulator\bin\Debug\MIPSEmulator.exe
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\Task 2 - MIPS Emulator\MIPSEmulator\MIPSEmulator\bin\Debug\MIPSEmulator.pdb
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\Task 2 - MIPS Emulator\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.csprojAssemblyReference.cache
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\Task 2 - MIPS Emulator\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.MainForm.resources
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\Task 2 - MIPS Emulator\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.Properties.Resources.resources
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\Task 2 - MIPS Emulator\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.csproj.GenerateResource.cache
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\Task 2 - MIPS Emulator\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\Task 2 - MIPS Emulator\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.exe
+C:\Users\Joe\Desktop\College Material\3rd Year\2nd Semester\_Researches\2) Computer Architecture\Task 2 - MIPS Emulator\MIPSEmulator\MIPSEmulator\obj\Debug\MIPSEmulator.pdb
